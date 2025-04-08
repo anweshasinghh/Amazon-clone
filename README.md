@@ -33,7 +33,7 @@ amazon-clone/
 ⚙️ How to Run Locally:
 
 1. Clone the repository:  
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/anweshasinghh/amazon-clone.git
 
 2. Open the folder in your code editor.
 
